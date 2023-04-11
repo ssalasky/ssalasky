@@ -2,7 +2,7 @@
 
 **`Endless Learner and Self-Proclaimed Digital Artist (Coding/Blender/Film)`**
 
-I'm a "half-stack" developer that mainly focuses on the frontend. I know enough on the backend
+I'm a full-stack developer that mainly focuses on the frontend. I know enough on the backend
 to be dangerous (helpful) but much prefer to spend my time turning designs into interactive websites. I'm in 
 the process of overhauling my GitHub profile as it has suffered from some minor neglect. Please check back to see my updates
 and potential projects we can collaborate on. The world of coding creates a digital "outer-space" worth of possibilities,
